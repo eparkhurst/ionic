@@ -1,1 +1,12 @@
 /* Empty. Add your own CSS if you like */
+h3 {
+  color:blue;
+}
+
+.blue{
+  background-color: blue;
+  color: blue;
+}
+.red{
+  color:red;
+}
